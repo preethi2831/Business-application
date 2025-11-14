@@ -1,8 +1,6 @@
 # Business-application
-
 ## AIM:
 To create a warehouse application in salesforce.com
-
 ## Procedure
 Types of Applications in SFDC
 In Salesforce.com, we have two types of Applications they are
@@ -14,11 +12,12 @@ In Salesforce we can create, manage and customise both applications according to
 ## PROCEDURE
 Step 1: Log into your developer
 
-<img width="4463" height="5053" alt="image" src="https://github.com/user-attachments/assets/44192d28-b4de-4b73-9370-39e745c0a3be" />
+<img width="559" height="513" alt="Screenshot 2025-11-14 143927" src="https://github.com/user-attachments/assets/a1db2006-7485-45be-abbe-b911861a9111" />
+<img width="377" height="328" alt="Screenshot 2025-11-14 143945" src="https://github.com/user-attachments/assets/2758ae47-ce2b-475e-8eba-3a92e5b63fcb" />
 
 Step 2: Click the Setup Link (upper-right corner).
 
-<img width="212" height="184" alt="image" src="https://github.com/user-attachments/assets/8ad25022-deb0-4728-8781-dc9adec47860" />
+<img width="377" height="328" alt="Screenshot 2025-11-14 143945" src="https://github.com/user-attachments/assets/0ab8e3ac-eeac-4d45-a0fa-6cbe8e8a7f0f" />
 
 Step 3: In the Left Navigation, Platform tools, then click App Manager
 
